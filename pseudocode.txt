@@ -1,0 +1,53 @@
+1.
+get UserInput
+IF Integer
+userInput + 5 = biggerInt
+biggerInt * 2 - 7 = result
+print result
+ELSE 
+get userInput
+
+2.
+get UserInput
+IF Integer
+userInput + 5 = biggerInt
+biggerInt * 2 - 7 = result
+print result
+ELSE 
+get userInput
+
+get userInput2
+IF Integer
+userInput + 5 = biggerInt
+biggerInt * 2 - 7 = result
+print result2
+ELSE 
+get userInput
+
+get userInput3
+IF Integer
+userInput + 5 = biggerInt
+biggerInt * 2 - 7 = result
+print result3
+ELSE 
+get userInput
+
+userInput + userInput2 + userInput3 = sistersTotal
+
+3.
+tenScores Array
+enter score
+user input
+next.scan until 10
+add eac number in array = result 
+result / 10 = average
+print average
+
+4. 
+width = userinput1
+length = userinput2
+userinput1 + userinput2 = cubicInchWater
+cubicInchWater / 231 = result
+print result
+
+
